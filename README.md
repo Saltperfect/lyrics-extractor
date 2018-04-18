@@ -29,5 +29,3 @@ This is the list of dependencies for running this application.
 2. By using this data set all sorts od intresting challanges can be put in front of users after they have listned to a particular song.
 3. Make the process of giving input url can be reduced to just playing the song on your computer and computer will automatically start generating a quiz. 
 4. Making an online community to share and challange your friends on the same quiz.
-
-### Please commit for any changes or bugs :)
