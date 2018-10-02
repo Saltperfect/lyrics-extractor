@@ -1,4 +1,4 @@
-# Lyrics-Extractor
+# Lyrics Extractor
 Find the lyrics of a song and writes all the unique words into a csv file.
 
 ## Overview
