@@ -1,8 +1,8 @@
 # Lyrics Extractor
-Find the lyrics of a song and writes all the unique words into a csv file.
+Finds the lyrics of a song and writes all the unique words into a csv file.
 
 ## Overview
-My main aim during the project was to learn web scraping and combining it with the love of music, I have written this script which gives the frequency table of the words in the lyrics.
+My main aim during the project was to learn web scraping and combining it with the love of music. This script builds a frequency table of the words in song lyrics.
 	
 ## Description
 Using a powerful word scrapper beautiful soup, I have used some basic logics to finally output csv.
